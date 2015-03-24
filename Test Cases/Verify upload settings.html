@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Verify upload settings</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Verify upload settings</td></tr>
+</thead><tbody>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>link=Upload file</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Upload file</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTextPresent</td>
+	<td>Maximum file size: 50 MB</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTextPresent</td>
+	<td>Preferred file types: png, jpg, jpeg, gif, svg, tif, tiff, xcf, vsd, mp3, ogg, wav, wma, swf, mpg, mpp, xml, txt, dat, pdf, zip, 7z, gz, tgz, ink, odt, ods, odc, odp, odg, doc, docx, rtf, xls, xlsx, ppt. </td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTextPresent</td>
+	<td>Prohibited file types: html, htm, js, jsb, mhtml, mht, php, phtml, php3, php4, php5, phps, shtml, jhtml, pl, py, cgi, exe, scr, dll, msi, vbs, bat, com, pif, cmd, vxd, cpl. </td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

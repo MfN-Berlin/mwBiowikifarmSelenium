@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Test Cases/Prevent inclusion of pages from namespace Internal.html">Prevent inclusion of pages from namespace Internal</a></td></tr>
+<tr><td><a href="Test Cases/Verify upload settings.html">Verify upload settings</a></td></tr>
+<tr><td><a href="Test Cases/Category tree.html">Category tree</a></td></tr>
+<tr><td><a href="Test Cases/Charinsert.html">Charinsert (To do)</a></td></tr>
+<tr><td><a href="Test Cases/Request account and terms of service.html">Request account and terms of service</a></td></tr>
+<tr><td><a href="Test Cases/ContributorList.html">ContributorList (To do)</a></td></tr>
+<tr><td><a href="Test Cases/Interwiki.html">Interwiki</a></td></tr>
+<tr><td><a href="Test Cases/Nuke.html">Nuke</a></td></tr>
+<tr><td><a href="Test Cases/Sematic Mediawiki.html">Sematic Mediawiki</a></td></tr>
+<tr><td><a href="Test Cases/Sematic Forms.html">Sematic Forms</a></td></tr>
+</tbody></table>
+</body>
+</html>
